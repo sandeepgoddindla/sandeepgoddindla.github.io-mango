@@ -79,7 +79,7 @@ img{
 
 /* Header */
 .hero{
-    background: url('/img/background.jpeg') center center/cover no-repeat;
+    background: url('img/background.jpeg') center center/cover no-repeat;
     height: 100vh;
     position: relative;
     color: #fff ;
